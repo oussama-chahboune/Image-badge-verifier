@@ -142,5 +142,5 @@ async function processImage(inputImagePath) {
     }
   }
 
-processImage('/Users/laurentibars/Desktop/pngimg.com - circle_PNG82.png');
+processImage('/Users/OUSSAMA/Desktop/pngimg.com - circle_PNG82.png');
 
